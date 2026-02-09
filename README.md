@@ -20,8 +20,12 @@ Sou aluno do 2º ano de Engenharia de Software, focado em construir bases sólid
 
 ---
 
-### 📈 Contribuições e Atividade
-![Snake animation](https://github.com/nilo415/nilo415/blob/output/github-contribution-grid-snake.svg)
+### 📈 Contribuições (Snake Game)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilo415/nilo415/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilo415/nilo415/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nilo415/nilo415/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -31,14 +35,6 @@ Sou aluno do 2º ano de Engenharia de Software, focado em construir bases sólid
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilo415&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilo415&layout=compact&theme=dark&hide_border=true" />
 </p>
-
----
-
-### 📂 Projetos em Destaque
-
-* **Rede Cuidar:** Desenvolvimento de APIs e estruturação de banco de dados para marketplace.
-* **[Inventory Management](https://github.com/nilo415/InventoryManagementSystem):** Sistema em Java focado em POO e persistência.
-* **[DishCovery](https://github.com/nilo415/DishCovery):** Prática de front-end e consumo de APIs externas.
 
 ---
 
